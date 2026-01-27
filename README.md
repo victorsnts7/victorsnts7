@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end`**
 
-Me chamo Victor Henrique, tenho 17 anos e sou natural de Minas Gerais. Estou atualmete cursando o ensino médio, com o curso técnico em informática. Sou apaixonado por tecnologia.
+Me chamo Victor Henrique, tenho 17 anos e sou de Minas Gerais. Atualmente curso o ensino médio, com cursos de Informática e Web Design. Tenho paixão por tecnologia e muita vontade de aprender e crescer nessa área.
 
 <p align="left">
     <a href="https://github.com/victorsnts7?tab=repositories&sort=stargazers">
