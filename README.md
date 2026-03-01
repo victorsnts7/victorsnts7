@@ -32,6 +32,14 @@ Me chamo Victor Henrique, tenho 17 anos e sou de Minas Gerais. Atualmente curso 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left"
+    alt="Git"
+    title="git"
+    width"30px"
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
 <br/>
 <br/>
